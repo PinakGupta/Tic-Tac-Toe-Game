@@ -5,7 +5,7 @@ Welcome to the Tic Tac Toe game project! This project is a simple implementation
 ## Overview
 
 - The game is designed to be responsive, ensuring a seamless experience on various devices.
-- The user can play against another user or against an AI opponent.
+- The user can play against another user.
 - The project structure is organized, making it easy to understand and extend.
 
 ## Technologies Used
